@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <metadata>
-  <groupId>com.activeconnect.activeconnect</groupId>
+  <groupId>com.activeconnect</groupId>
   <artifactId>activeconnect</artifactId>
   <versioning>
     <latest>0.0.1</latest>
@@ -8,6 +8,6 @@
     <versions>
       <version>0.0.1</version>
     </versions>
-    <lastUpdated>20210217183240</lastUpdated>
+    <lastUpdated>20210218161755</lastUpdated>
   </versioning>
 </metadata>

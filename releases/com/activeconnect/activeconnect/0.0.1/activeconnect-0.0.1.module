@@ -1,7 +1,7 @@
 {
   "formatVersion": "1.1",
   "component": {
-    "group": "com.activeconnect.activeconnect",
+    "group": "com.activeconnect",
     "module": "activeconnect",
     "version": "0.0.1",
     "attributes": {
@@ -11,7 +11,7 @@
   "createdBy": {
     "gradle": {
       "version": "6.5",
-      "buildId": "nmlglhz5t5e3zhmcld3leyugzu"
+      "buildId": "2bhxoro35fd7jhw5qs3eifddby"
     }
   },
   "variants": [
